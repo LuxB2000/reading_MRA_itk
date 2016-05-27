@@ -6,7 +6,7 @@ On Unix plateform
 - mkdir build
 - cd build
 - cmake ..
-- makeReadingMRA
+- make
 
 ## Run
 ./reanding_mra -i /some/path/to/reach/mra/dcm -o /some/path/to/write/mha
